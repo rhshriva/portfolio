@@ -1,5 +1,57 @@
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Rahul Shrivastava
+// Custom styles for portfolio
+// Override hacker theme variables
 
+// Color scheme
+$primary-color: #0d1117;
+$accent-color: #58a6ff;
+$text-color: #f0f6fc;
+$secondary-text: #8b949e;
+$border-color: #30363d;
+
+// Typography
+$font-family-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+$font-family-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+
+// Enhanced styling for better visual appeal
+body {
+  line-height: 1.6;
+  font-family: $font-family-sans;
+}
+
+// Hero section styling
+.hero-section {
+  text-align: center;
+  padding: 3rem 0;
+  border-bottom: 2px solid $border-color;
+  margin-bottom: 2rem;
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    background: linear-gradient(135deg, $accent-color, #39d353);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  
+  .subtitle {
+    font-size: 1.2rem;
+    color: $secondary-text;
+    margin-bottom: 1.5rem;
+  }
+}
+
+// Badge styling
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  margin: 0.2rem;
+  background: $border-color;
+  border-radius: 6px;
+  font-size: 0.875rem;
+  text-decoration: none;
+  color: $text-color;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    background: $accent-colo
