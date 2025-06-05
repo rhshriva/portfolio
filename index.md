@@ -70,34 +70,71 @@ Comprehensive ML framework for time series forecasting and anomaly detection wit
 
 ## 💼 **Professional Experience**
 
-### 🏢 **Engineering Manager** | GEICO Tech *(Nov 2024 - Present)*
-- **Multi-Cloud Orchestration:** Leading Kubernetes deployments across bare metal, Azure, and AWS with comprehensive observability frameworks
-- **Chaos Engineering:** Implementing resilience testing and automated failure recovery for production-grade systems
-- **Team Leadership:** Managing cross-functional teams focused on infrastructure reliability and performance optimization
-
-### ☁️ **Engineering Manager** | AWS *(Oct 2019 - Nov 2024)*
+### 🏢 **Software Engineering Manager** | AWS RDS *(2019 - Present)*
 **Distributed Systems & Infrastructure**
-- **Petabyte-Scale Architecture:** Designed multi-petabyte database systems with advanced heat management and resource partitioning
-- **Observability Platform:** Built real-time telemetry systems using Kinesis, Lambda, and CloudWatch for ML workload monitoring
-- **Cost Optimization:** Engineered GPU health monitoring achieving 20% failure reduction and **$20M cost savings**
-- **Technical Leadership:** Mentored teams on distributed consensus algorithms and reliability engineering
+
+**Heat Management System for Aurora**
+- Built a system to handle heat management for Aurora's Limitless database
+- Enabled petabyte-scale workloads on distributed databases
+- Led team of 12 engineers across multiple disciplines
+
+**Parallel Query Testing Framework**
+- Developed test automation for AuroraDB's parallel query capabilities
+- Enabled parallel querying in Aurora MySQL 5.6 and 5.7
+- Led team of 4 engineers in test framework development
+
+**SageMaker Telemetry Pipeline**
+- Built serverless telemetry system using Kinesis Firehose, Lambda, and CloudWatch
+- Processed ML job data in real-time with concurrent Lambda functions
+- Enabled observability for machine learning workloads
+
+**GPU Reliability System**
+- Built system to detect and remove faulty GPUs in EC2 clusters
+- Reduced GPU failures by 20% and saved $20M in infrastructure costs
+- Used automated tooling to manage Nvidia GPU instances
 
 ### 🍎 **Principal Engineer** | Apple Inc. *(2018-2019)*
 **High-Scale Data Processing**
-- **Apple Maps Infrastructure:** Built distributed rate limiter handling **14K TPS** with ~10ms latency
-- **Data Validation Systems:** Developed protobuf validation for multi-terabyte Apple device logs
-- **Performance Engineering:** Optimized systems serving millions of Apple Maps users globally
+
+**Data Validation System**
+- Built system to validate log data from Apple devices and Maps
+- Implemented rules engine for protobuf 2.5 data validation
+- Handled multi-terabyte volumes of machine-generated logs
+
+**Distributed Rate Limiter**
+- Built rate limiter for Apple Maps services using gRPC, Zookeeper, and Netty
+- Achieved 14K TPS per node with 10ms latency
+- Implemented traffic shaping and API quota management
 
 ### ⚡ **Principal Member of Technical Staff** | Salesforce.com *(2016-2018)*
 **Database & Query Optimization**
-- **Load Balancing:** Architected intelligent load balancer for Apache Phoenix Query Server with dynamic scaling
-- **Real-time Systems:** Implemented Zookeeper-based metadata management for query routing optimization
 
-### 🏛️ **Principal Engineer** | Oracle & Others *(2001-2016)*
-**Performance Engineering & Big Data**
-- **JVM Optimization:** Root cause analysis for performance issues across JRockit, Hotspot, and distributed caches
-- **HDFS Security:** Developed enterprise-grade audit systems with Kafka integration for data governance
-- **Enterprise Scale:** Performance tuning for mission-critical enterprise applications
+**Apache Phoenix Load Balancer**
+- Built load balancer for Phoenix Query Server (PQS)
+- Used Zookeeper for server availability and metadata
+- Enabled dynamic scaling of PQS instances
+
+### 🏛️ **Principal HDFS Engineer** | BlueTalon *(2015-2016)*
+**Big Data & Security**
+
+**HDFS Audit System**
+- Built scalable audit system for HDFS file operations
+- Used Kafka for audit log streaming
+- Implemented Java code injection in HDFS Namenode
+
+### 🔧 **Principal Performance Engineer** | Oracle *(2011-2014)*
+**Performance Engineering**
+
+**JVM & Cache Optimization**
+- Fixed performance issues in JRockit JVM and Hotspot
+- Optimized Coherence cache and Berkeley DB
+- Solved thread contention and GC pause issues
+
+### 💻 **Senior Performance Engineer** | SuccessFactors *(2008-2010)*
+**Performance Engineering**
+
+### 🏢 **Senior Member of Technical Staff** | Oracle *(2001-2008)*
+**Performance Engineering**
 
 ---
 
