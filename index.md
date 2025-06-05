@@ -28,10 +28,10 @@ Seasoned Engineering Leader with 20+ years of experience architecting and scalin
 ## 🚀 **Featured Projects**
 
 ### 🗄️ **[Custom SQLite Database Engine](https://github.com/rhshriva/build_own_sqlite)**
-[![Language: C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B)](#)
+[![Language: Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python)](#)
 [![Type: Systems](https://img.shields.io/badge/Type-Systems%20Programming-green)](#)
 
-Ground-up implementation of a SQLite-compatible database engine demonstrating deep systems programming expertise.
+Simple implementation of a SQLite-compatible database engine from scratch in Python.
 
 **Key Features:**
 - Custom B-tree storage engine with optimized disk I/O
@@ -43,28 +43,29 @@ Ground-up implementation of a SQLite-compatible database engine demonstrating de
 
 ### 🤖 **[AI Time Series Analysis Framework](https://github.com/rhshriva/AI_Time_Series)**
 [![Language: Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python)](#)
-[![Type: ML/AI](https://img.shields.io/badge/Type-Machine%20Learning-orange)](#)
+[![Type: ML/AI](https://img.shields.io/badge/Type-GPU%20Monitoring%20%26%20Analysis-orange)](#)
 
-Comprehensive ML framework for time series forecasting and anomaly detection with production-ready capabilities.
+A comprehensive toolkit for GPU metrics collection, testing, and visualization in AI time series workloads, optimized for Kubernetes clusters with GPU nodes.
 
 **Key Features:**
-- Advanced deep learning models (LSTM, Transformers, Ensembles)
-- Real-time anomaly detection and alerting
-- Automated feature engineering pipeline
-- Scalable inference for financial and IoT applications
+- GPU metrics collection and monitoring for AI workloads
+- Automated testing framework for GPU performance
+- Real-time visualization of GPU metrics and time series data
+- Kubernetes-native deployment with GPU node support
+- Shell scripts for easy setup and configuration
 
 ---
 
 ## 🎓 **Certifications & Learning**
 
-| **Certification** | **Institution** | **Date** | **Skills** |
-|:------------------|:----------------|:---------|:-----------|
-| 🧠 **Artificial Intelligence** | Stanford Online | Apr 2025 | PyTorch • GPU Computing |
-| 🎯 **Deep Multi-Task & Meta Learning (XCS330)** | Stanford Online | Apr 2025 | Advanced ML |
-| 💬 **Natural Language Understanding (XCS224U)** | Stanford Online | Nov 2024 | NLP • AI |
-| 🔤 **NLP with Deep Learning (XCS224N)** | Stanford Online | Jul 2024 | Deep Learning |
+| **Certification** | **Institution** | **Date** | **Skills** | **Credential** |
+|:------------------|:----------------|:---------|:-----------|:---------------|
+| 🧠 **Artificial Intelligence** | Stanford Online | Apr 2025 | PyTorch • GPU Computing | [View](https://digitalcredential.stanford.edu/check/21DB0D4BBDF4B5C6F9A20436F51F063ACC6CF7B8C67D3EB3760B7CBAE7858368ME9EMVN5emdvc0pOM2lrSHF1am0wazIvTEhKTGRkeXA1U0ZQdDdadmdhSlZLTm9B) |
+| 🎯 **Deep Multi-Task & Meta Learning (XCS330)** | Stanford Online | Apr 2025 | Advanced ML | [View](https://digitalcredential.stanford.edu/check/ADC7480B80E51B9C69BA316AF38A54EEA42889883CBBB2E3B26F1FC572AA978FZUJwd0wwUVpqUHdGUnpOYWlBRG5KaXZwYW9RSmdMc1hIcDNnZTFpdzhFU2lsajUv) |
+| 💬 **Natural Language Understanding (XCS224U)** | Stanford Online | Nov 2024 | NLP • AI | [View](https://digitalcredential.stanford.edu/check/AFD3D132BA1F840AF1A5B1D823DCB7AFB747CC39FF4CB245B0E55359C7D10BB7bERqNmNDRDN3QitVNzJUUzM1TFdJUWFoNDNjV1FxQnNmQUdXQUNoVStaYjZTbEE3) |
+| 🔤 **NLP with Deep Learning (XCS224N)** | Stanford Online | Jul 2024 | Deep Learning | [View](https://digitalcredential.stanford.edu/check/D2D576739985D6DEC9CF68FAA677F8F63343527019377AA101E4F456D7826108R1E2aXJ1eTB0VzZSWUJoZzg2UWlOdWJybVhZYnpZRGZORmxrcUM1MitNUzBMYjEw) |
 
-*[View All Credentials →](https://digitalcredential.stanford.edu/)*
+
 
 ---
 
